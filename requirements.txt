@@ -1,0 +1,8 @@
+fastai==2.7.13
+numpy==1.23.5
+# Pillow==9.0.1
+Pillow==10.1.0
+torch==2.1.1
+torchmetrics==1.2.0
+torchvision==0.16.1
+tqdm==4.64.0
